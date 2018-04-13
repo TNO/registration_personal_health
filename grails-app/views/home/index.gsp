@@ -63,7 +63,7 @@
             <g:if test="${registered}">
                 <div class="col-lg-10 mx-auto">
                     <h1 class="text-uppercase">
-                        <strong>Neem uw gezondheid in eigen hand en sluit aan bij de diabetes type 2 beweging!</strong>
+                        <strong>Neem uw gezondheid in eigen hand en sluit u aan bij de diabetes type 2 beweging!</strong>
                     </h1>
                     <hr>
                 </div>
