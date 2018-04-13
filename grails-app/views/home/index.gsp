@@ -98,14 +98,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-                <h2 class="section-heading text-white">We've got what you need!</h2>
+                <h2 class="section-heading text-white">Leefstijl als medicijn</h2>
                 <hr class="light my-4">
                 <p class="text-faded mb-4">Recent wetenschappelijk onderzoek laat zien dat bewegen en gezond eten goed is voor de gezondheid voor mensen met Type 2 Diabetes. </p>
-                <p class="text-faded mb-4">Maar welke voeding is nu precies gezond voor mij? Hoeveel zou ik nu eigenlijk moeten bewegen, en wat voor invloed heeft dat op mijn bloedglucose? </p>
+                <p class="text-faded mb-4">Maar welke voeding is nu precies gezond voor mij? Hoeveel zou ik nu eigenlijk moeten bewegen, en welke  invloed heeft dat op mijn bloedglucose? </p>
                 <p class="text-faded mb-4">Met deze vragen gaan TNO en het Leids Universitair Medisch Centrum (LUMC) samen met U aan de slag. Met eenvoudige vragenlijsten en metingen wordt u voorzien van een advies op maat en begeleiding middels een app. </p>
-                <p class="text-faded mb-4">U bent de baas over uw gezondheidsgegevens en u beslist of dit mag worden gebruikt voor verdere ontwikkeling van de leefstijl adviezen en begeleiding. We horen ook graag uw suggesties voor verbetering. Kijk hier voor meer informatie. </p>
+                <p class="text-faded mb-4">U bent de baas over uw gezondheidsgegevens en u beslist of dit mag worden gebruikt voor verdere ontwikkeling van de leefstijl adviezen en begeleiding. We horen ook graag uw suggesties voor verbetering. </p>
                
-                <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Klik hier om je aan te melden!</a>
+                <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Klik hier om u aan te melden!</a>
             </div>
         </div>
     </div>
@@ -259,7 +259,7 @@ Tijdens de derde fase wordt de effectiviteit van het  programma getest. Dat wil 
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">About</h2>
+                <h2 class="section-heading text-uppercase">Tijdlijn</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
