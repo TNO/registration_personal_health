@@ -63,7 +63,7 @@
             <g:if test="${registered}">
                 <div class="col-lg-10 mx-auto">
                     <h1 class="text-uppercase">
-                        <strong>Sluit je aan bij de diabetes type 2 beweging! </strong>
+                        <strong>Neem uw gezondheid in eigen hand en sluit aan bij de diabetes type 2 beweging!</strong>
                     </h1>
                     <hr>
                 </div>
@@ -100,7 +100,11 @@
             <div class="col-lg-8 mx-auto text-center">
                 <h2 class="section-heading text-white">We've got what you need!</h2>
                 <hr class="light my-4">
-                <p class="text-faded mb-4">Recent wetenschappelijk onderzoek laat zien dat bewegen en gezond eten goed is voor de gezondheid voor mensen met Type 2 Diabetes. Maar welke voeding is nu precies gezond voor mij? En hoeveel zou ik nu eigenlijk moeten bewegen, en wat voor invloed heeft dat op mijn bloedglucose? Met deze vragen gaan TNO en het Leids Universitair Medisch Centrum (LUMC) samen met U aan de slag. Met eenvoudige vragenlijsten en metingen wordt u voorzien van een advies op maat en begeleiding middels een app. U bent de baas over uw gezondheidsgegevens en u beslist of dit mag worden gebruikt voor verdere ontwikkeling van de leefstijl adviezen en begeleiding. We horen ook graag uw suggesties voor verbetering. Kijk hier voor meer informatie. </p>
+                <p class="text-faded mb-4">Recent wetenschappelijk onderzoek laat zien dat bewegen en gezond eten goed is voor de gezondheid voor mensen met Type 2 Diabetes. </p>
+                <p class="text-faded mb-4">Maar welke voeding is nu precies gezond voor mij? Hoeveel zou ik nu eigenlijk moeten bewegen, en wat voor invloed heeft dat op mijn bloedglucose? </p>
+                <p class="text-faded mb-4">Met deze vragen gaan TNO en het Leids Universitair Medisch Centrum (LUMC) samen met U aan de slag. Met eenvoudige vragenlijsten en metingen wordt u voorzien van een advies op maat en begeleiding middels een app. </p>
+                <p class="text-faded mb-4">U bent de baas over uw gezondheidsgegevens en u beslist of dit mag worden gebruikt voor verdere ontwikkeling van de leefstijl adviezen en begeleiding. We horen ook graag uw suggesties voor verbetering. Kijk hier voor meer informatie. </p>
+               
                 <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Klik hier om je aan te melden!</a>
             </div>
         </div>
@@ -146,7 +150,7 @@ Tijdens de derde fase wordt de effectiviteit van het  programma getest. Dat wil 
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box mt-5 mx-auto">
                     <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-                    <h3 class="mb-3">Delen van Gezondheidsgegevens – Gezondheidsdata Coöperatie </h3>
+                    <h3 class="mb-3">Delen van Gezondheidsgegevens</h3>
                     <p class="text-muted mb-0">Een belangrijk onderdeel van dit programma zijn de gezondheidsgegevens die nodig zijn om bijvoorbeeld de voedingsadviezen te verbeteren en de gezondheid van de deelnemers te monitoren. Dit programma heeft als uitgangspunt dat U eigenaar bent over uw eigen gegevens. De App die in dit programma wordt gebruikt geeft u volledige beschikking over deze data. U kunt beslissen met wie de data wordt gedeeld en waarvoor de data kan worden gebruikt. Gezondheidsgegevens hebben pas echt waarde (voor onderzoek etc) als die van meerdere mensen/patienten worden verzameld. Pas geleden is een Coöperatie opgericht die als doel heeft deze gegevens op een verantwoorde manier te beheren. Als lid van deze cooperatie beslist u ook daadwerkelijk mee wat er met deze gegevens gebeurt, bijvoorbeeld voor welk onderzoek ze kunnen worden ingezet.  </p>
                 </div>
             </div>
