@@ -97,7 +97,7 @@
 <section class="bg-primary" id="bla">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 mx-auto text-center">
+            <div class="col-lg-8 mx-auto text-left">
                 <h2 class="section-heading text-white">Leefstijl als medicijn</h2>
                 <hr class="light my-4">
                 <p class="text-faded mb-4">Een gezonde leefstijl zoals bewegen en gezond eten is essentieel voor de gezondheid van mensen met diabetes type 2, maar veel mensen vinden het lastig dit vol te houden. Wij kunnen hierbij helpen maar hebben hiervoor uw hulp nodig! </p>
