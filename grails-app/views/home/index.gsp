@@ -100,7 +100,7 @@
             <div class="col-lg-8 mx-auto text-left">
                 <h2 class="section-heading text-white">Leefstijl als medicijn</h2>
                 <hr class="light my-4">
-                <p class="text-faded mb-4">Een gezonde leefstijl zoals bewegen en gezond eten is essentieel voor de gezondheid van mensen met diabetes type 2, maar veel mensen vinden het lastig dit vol te houden. Wij kunnen hierbij helpen maar hebben hiervoor uw hulp nodig! </p>
+                <p class="text-faded mb-4">Een gezonde leefstijl zoals bewegen en gezond eten is essentieel voor de gezondheid van mensen met diabetes type 2, maar veel mensen vinden het lastig dit vol te houden. Wij kunnen hierbij helpen maar hebben hiervoor ook uw hulp nodig! </p>
                 <p class="text-faded mb-4">Op welke manier kunnen we u ondersteunen bij het volhouden van een gezonde leefstijl? Welke voeding en hoeveel beweging is  voor u gezond? En welke invloed heeft dat op uw bloedglucose? Met deze vragen gaat u samen met TNO en het Leids Universitair Medisch Centrum (LUMC) aan de slag.</p>
                 <p class="text-faded mb-4">Met korte vragenlijsten en metingen wordt u voorzien van een persoonlijk leefstijladvies  en begeleiding via een app. U bent de baas over uw gezondheidsgegevens. U beslist of uw gegevens mogen worden gebruikt voor verdere ontwikkeling van de persoonlijke adviezen en begeleiding. Het persoonlijke advies is vrijblijvend, u bent niet verplicht om dit op te volgen. We ontvangen graag uw suggesties voor verbetering. Kijk hier voor meer informatie.</p>
                 
